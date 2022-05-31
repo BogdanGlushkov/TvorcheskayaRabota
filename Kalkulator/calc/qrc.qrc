@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QtCSS/style.css</file>
+        <file>style_dark.css</file>
+        <file>style_blue.css</file>
+    </qresource>
+</RCC>

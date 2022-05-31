@@ -1,0 +1,41 @@
+QWidget{
+    background: #00A67C;
+}
+
+QTextEdit{
+    border: 3px solid #207E62;
+    border-radius: 8px;
+    background: white;
+    font-size: 31px;
+    color: #326c5b;
+}
+
+QTextEdit:hover{
+    background: white;
+}
+
+QRadioButton{
+    color: white;
+    font-size: 32px;
+}
+
+QMenuBar{
+    background: white;
+}
+
+QMenu{
+    background: white;
+}
+QMenu::item::selected{
+    background-color: #96a59e;
+    color: black;
+}
+
+QPushButton{
+    border-radius: 8px;
+    border: 2px solid #207E62;
+    height: 30px;
+    font-size: 27px;
+    background: #35D3A7;
+    color: white;
+}
